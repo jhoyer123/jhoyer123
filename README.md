@@ -7,4 +7,4 @@ jhoyervg / README.md
 💻 Disfruto trabajar con **JavaScript, TypeScript, React y Node.js**.  
 🚀 Actualmente enfocado en el desarrollo **Full Stack**, arquitecturas modulares y soluciones orientadas a la resolución de problemas técnicos.  
 📍 Basado en **La Paz, Bolivia**.  
-📫 Contactame: [jhoyervegaguarachi@gmail.com](mailto:jhoyervegaguarachi@gmail.com).
+📫 Contáctame: [jhoyervegaguarachi@gmail.com](mailto:jhoyervegaguarachi@gmail.com).
